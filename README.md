@@ -83,7 +83,7 @@
   <img src="https://raw.githubusercontent.com/DhakshanKumar/DhakshanKumar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 </p>
 
-> Snake animation needs a one-time GitHub Action setup — see the note at the bottom of this file for the exact steps.
+
 
 ---
 
